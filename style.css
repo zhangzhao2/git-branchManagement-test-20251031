@@ -1,1 +1,4 @@
 * { margin: 0; padding: 0; }
+nav { background: #333; padding: 1rem; }
+nav ul { list-style: none; display: flex; gap: 1rem; }
+nav a { color: white; text-decoration: none; }
